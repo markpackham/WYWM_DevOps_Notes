@@ -1,0 +1,30 @@
+SasS
+all, total infastructure
+
+services IaaS covers -  compute, storage, networking, and virtualization
+
+Open Toolchain is an open architecture that helps you integrate a set of tools to build, deploy and manage your apps
+
+
+Hypervisor
+is the software layer between: 
+host machine, 
+physical server, 
+guest machines, 
+virtual machines.
+
+
+NewRelic is a Software as a Service monitoring solution.
+
+
+Travis CI for continious intergration
+
+
+For Ansible, what records and executes Ansible's configuration, deployment, and orchestration functions.
+Playbooks
+
+When creating the code, the tools you use for build automation depend on the programming languages and _____________. Fill in the blank with your answer below:
+
+Jenkins build automation
+
+Infrastructure as code, or IaC, enables DevOps teams to test applications in production-like environments early in the development cycle
